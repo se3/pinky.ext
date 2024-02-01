@@ -808,5 +808,20 @@
 				"url": "https://ubistatic-a.akamaihd.net/0018/live/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
 			}
 		}
+	},
+	{
+		"id": 55,
+		"condition": {
+			"urlFilter": "https://ubistatic-a.akamaihd.net/0018/live/GFX_HASHED/building_lib/9bab31d27de578772a21c38b5cd6c424c048e6fc.png",
+			"resourceTypes": [
+				"xmlhttprequest"
+			]
+		},
+		"action": {
+			"type": "redirect",
+			"redirect": {
+				"url": "https://ubistatic-a.akamaihd.net/0018/live/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+			}
+		}
 	}
 ]
